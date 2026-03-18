@@ -1,0 +1,1 @@
+created a financial dashboard in Power BI to analyze one fiscal year of credit card data. First, I used Excel to clean and transform the dataset. Next, I extracted and performed queries in MySQL. Finally, I used DAX in Power BI to develop accurate calculations and visualizations, demonstrating strong proficiency in data analysis and interpretation.
